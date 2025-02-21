@@ -1,3 +1,6 @@
 #ignore
-/files/*
-/invoice_generator/*
+/files/
+/invoice_generator/
+/dist/
+/build/
+*.spec
